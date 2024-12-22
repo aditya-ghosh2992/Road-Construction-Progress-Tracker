@@ -1,0 +1,18 @@
+Construction Progress Report
+============================
+
+Similarity Score: 25.04%
+Road Coverage Change: 5.90%
+Pixel Intensity Difference: 0.19
+Histogram Difference: 0.69
+Number of Keypoints in Reference Image: 500
+Number of Keypoints in Test Image: 500
+Number of Matches: 149
+Road Pixels in Reference Image (edges): 28225
+Road Pixels in Test Image (edges): 29890
+Histogram Correlation (1.0 = perfect match): 0.69
+Utility Ducts Change: 5
+Road Length (in kilometers): 1.165232 km
+Asphalt Coverage: 6.64%
+Markings Coverage: 15.09%
+Estimated Construction Progress: 80.86%
